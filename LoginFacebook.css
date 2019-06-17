@@ -1,0 +1,38 @@
+
+.headLogin{
+	background-color: #045FB4;
+	margin-top: 0px;
+	width: 100%;
+	height: 60px;
+	
+
+}
+ul li {
+	display: inline-block;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	
+	
+}
+.logo {
+	color: #FFFFFF;
+	padding-left: 100px;
+
+}
+
+.bodyLogin{
+	margin: 0px 0px 0px 0px ;
+	width: 100%;
+	background-color: #D8D8D8;
+}
+
+.login{
+	background-color: #FFFFFF;
+	margin: auto;
+	width: 40%;
+}
+.content{
+	text-align: center;
+}
+
